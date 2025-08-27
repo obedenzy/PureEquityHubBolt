@@ -1,1 +1,1 @@
-# PureEquityHubBolt
+PureEquityHub

@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/create-listing/page": "app/create-listing/page.js",
+  "/inbox/page": "app/inbox/page.js",
+  "/listings/page": "app/listings/page.js",
+  "/listings/[id]/page": "app/listings/[id]/page.js"
+}
